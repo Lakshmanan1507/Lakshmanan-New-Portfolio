@@ -30,7 +30,7 @@ Lakshmanan-New-Portfolio/
 └── README.md          # Project documentation
 
 ```
-
+```
 ## Usage
 
 Copy this URL:
@@ -44,7 +44,7 @@ bash   git clone https://github.com/Lakshmanan1507/Lakshmanan-New-Portfolio.git
 Navigate to the project directory:
 
 bash   cd Lakshmanan-New-Portfolio
-
+```
 
 👨‍💻 Author
 
